@@ -105,5 +105,3 @@ gcc main.c encode.c decode.c -o stego
 
 ---
 
-
-Just tell me!
